@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d608b4d3-2042-4fc8-b862-ef3acc1c3348" />### 1. Login
 
 POST /api/v1/login
 
